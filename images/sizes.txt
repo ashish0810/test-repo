@@ -1,0 +1,2 @@
+bg is 1568x1024
+others are 640x320
