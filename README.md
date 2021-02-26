@@ -1,10 +1,10 @@
-# README
+# DC2021 - Team 10
 
 Ashish Bachavala and Matt Braun
 
 ## Presentation is in the `presentation` folder
 
-The website is hosted here https://ashishbach.com/dc21/
+The website is hosted here: [https://ashishbach.com/dc21/](https://ashishbach.com/dc21/)
 
 ## Scripts and explanations
 
